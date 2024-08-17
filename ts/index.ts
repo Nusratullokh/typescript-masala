@@ -1,4 +1,4 @@
-// 1-MASALA
+// // 1-MASALA
 // function calculateAges(humanYears: number): [number, number, number] {
 //     let catYears: number;
 //     let dogYears: number;
@@ -7,8 +7,8 @@
 //         catYears = 15;
 //         dogYears = 15;
 //     } else if (humanYears === 2) {
-//         catYears = 24; // 15 + 9
-//         dogYears = 24; // 15 + 9
+//         catYears = 24; 
+//         dogYears = 24; 
 //     } else {
 //         catYears = 24 + (humanYears - 2) * 4;
 //         dogYears = 24 + (humanYears - 2) * 5;
@@ -17,8 +17,8 @@
 //     return [humanYears, catYears, dogYears];
 // }
 
-// // Misol uchun foydalanish:const ages = calculateAges(5);
-// console.log(calculateAges); // Natija: [5, 36, 39]
+// const ages = calculateAges(5);
+// console.log(ages); 
 
 
 // 2-MASALA
